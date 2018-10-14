@@ -1,4 +1,5 @@
-﻿using System.Collections;
+// スマホ太郎
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
